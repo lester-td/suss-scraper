@@ -1,4 +1,4 @@
-# SUSS Planner Scraper — Start-to-End Guide
+# SUSS Scraper
 
 This scraper is designed for a local workflow:
 
@@ -41,6 +41,8 @@ PostgreSQL client / psql
 The scraper is designed to run locally from your development machine.
 
 ---
+
+# Guide
 
 ## 0. What the scraper imports
 
